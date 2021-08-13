@@ -1,6 +1,10 @@
 # chartoftheweek
 Every week I post a chart on my [LinkedIn](https://www.linkedin.com/in/andrewbridger/) on the key Australian economic data from the week. This repository contains the R code used to reproduce my charts. You can also view my Twitter: [@AndyBridger](https://twitter.com/AndyBridger)
 
+- **Week 33** 
+
+Insert text and chart.
+
 - **Week 32** 
 
 Insert text and chart.
@@ -8,6 +12,7 @@ Insert text and chart.
 - **Week 31** 
 
 Export prices have increased +170% this century while import prices have increased only 7%. Higher export prices help to support government budgets and national aggregate income.
+![](https://github.com/andybridger/chartoftheweek/blob/main/2021/week31.png?raw=true)
 
 - **Week 30** 
 
