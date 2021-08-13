@@ -33,7 +33,7 @@ ch_w33
 #finalise plot function comes from the aigtheme
 finalise_plot(plot_name = ch_w33,
               source = "Source: Drewry World Container Index",
-              save_filepath = "/Users/andrewbridger/Desktop/R/chartoftheweek/2021/week33.png",
+              save_filepath = "/Users/andrewbridger/Documents/GitHub/chartoftheweek/2021/week33.png",
               width_pixels = 640,
               height_pixels = 450,
-              logo_image_path = "/Users/andrewbridger/Desktop/R/chartoftheweek/aig_logo.png")
+              logo_image_path = "/Users/andrewbridger/Documents/GitHub/chartoftheweek/2021/aig_logo.png")
