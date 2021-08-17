@@ -3,32 +3,45 @@ Every week I post a chart on my [LinkedIn](https://www.linkedin.com/in/andrewbri
 
 - **Week 33** 
 
-Insert text and chart.
+The world container index increased to $9,421 per 40ft container in the week to 12 August 2021, up 358% from the same week in 2020 and up from $1,500 in March 2020. 
+
+![](https://github.com/andybridger/chartoftheweek/blob/main/2021/week33.png?raw=true)
 
 - **Week 32** 
 
-Insert text and chart.
+New data from the OECD comparing minimum wages across the globe. Australia has the highest #MinimumWage in the world for the second year in a row. For the original viz see here: https://lnkd.in/g6HhkDKr and for my quick explainer on the data and the Australian minimum wage (from last year), please see my blog here: https://lnkd.in/gi-HiZPc
+
+![](https://github.com/andybridger/chartoftheweek/blob/main/2021/week32.gif?raw=true)
 
 - **Week 31** 
 
 Export prices have increased +170% this century while import prices have increased only 7%. Higher export prices help to support government budgets and national aggregate income.
+
 ![](https://github.com/andybridger/chartoftheweek/blob/main/2021/week31.png?raw=true)
 
 - **Week 30** 
 
 The #olympics have started but this remains the most important race of all #ausbiz #vaccines
 
+![](https://github.com/andybridger/chartoftheweek/blob/main/2021/week30.png?raw=true)
+
 - **Week 29** 
 
 Victorian hours worked declined 8.4% in June due to the 2-week lockdown in the state. The impact of lockdowns is more visible in 'hours worked' rather than 'employment' because many workers' hours are reduced (including to zero) but keep their jobs. Longer lockdowns and the absence of government support increase the probability of job losses. This data pre-dates the recent restrictions in Greater Sydney and Victoria, which will be the first time in 2021 that Australia's two largest cities - accounting for more than half of the Australian economy - have been locked down at the same time.
+
+![](https://github.com/andybridger/chartoftheweek/blob/main/2021/week29.png?raw=true)
 
 - **Week 28** 
 
 Job mobility in Australia hit a record low during the pandemic but has been declining for decades. This long-term decline reflects demographic changes (older workers change jobs less frequently) and possibly structural changes. However, compared to the past, when people do change jobs they are more likely to move into different industries and/or change occupational groups.
 
+![](https://github.com/andybridger/chartoftheweek/blob/main/2021/week28.png?raw=true)
+
 - **Week 27** 
 
 The Australian Industry Group (Ai Group) Performance of #manufacturing Index grew at a record pace in June. The index is one of Australia's longest-running business surveys dating back to 1992.
+
+![](https://github.com/andybridger/chartoftheweek/blob/main/2021/week27.png?raw=true)
 
 - **Week 26** 
 
@@ -36,17 +49,25 @@ Detailed employment data was released from the ABS this week.
 Top 3 employing industries for females: 1. healthcare 2. education 3. retail
 Top 3 employing industries for males: 1. construction 2. professional services 3. manufacturing
 
+![](https://github.com/andybridger/chartoftheweek/blob/main/2021/week26.png?raw=true)
+
 - **Week 25** 
 
 Net interstate migration to Queensland has increased substantially during COVID-19 while Victoria experienced its largest decline to other states since the 1990s recession (which, like COVID-19 lockdowns, hit Victoria particularly hard). NSW always loses people to other states (mainly Queensland) but usually has large overseas migration flows which increase its population. 
 
+![](https://github.com/andybridger/chartoftheweek/blob/main/2021/week25.png?raw=true)
+
 - **Week 24** 
 
-There are more jobs on offer in #regionalaustralia than ever before. There were a record-high 57,500 online vacancies in April which is 65% higher than the pre-COVID-19 average
+There are more jobs on offer in #regionalaustralia than ever before. There were a record-high 57,500 online vacancies in April which is 65% higher than the pre-COVID-19 average.
+
+![](https://github.com/andybridger/chartoftheweek/blob/main/2021/week24.png?raw=true)
 
 - **Week 23** 
 
 Domestic demand is higher than pre-pandemic levels in every state & territory except for #victoria. The current lockdown is likely to push the Victorian recovery further behind the other states.
+
+![](https://github.com/andybridger/chartoftheweek/blob/main/2021/week23.png?raw=true)
 
 - **Week 23 Extra** 
 
@@ -56,13 +77,19 @@ Business profit, sales and wages data out today from the ABS. Corporate profits 
 
 The long-term unemployment rate increased in April - despite the headline rate falling - as those who lost their jobs at the start of the pandemic (April 2020) were added. One-third of all unemployed people in Australia are now long-term unemployed.
 
+![](https://github.com/andybridger/chartoftheweek/blob/main/2021/week22.png?raw=true)
+
 - **Week 21**
 
 The youth unemployment rate fell to its lowest level since the GFC in April. 
 
+![](https://github.com/andybridger/chartoftheweek/blob/main/2021/week21.png?raw=true)
+
 - **Week 20**
 
 #budget2021 forecasts rising debt but a stable debt burden. Why? Historically low interest rates. 
+
+![](https://github.com/andybridger/chartoftheweek/blob/main/2021/week20.png?raw=true)
 
 - **Week 19**
 
