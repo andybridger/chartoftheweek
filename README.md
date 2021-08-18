@@ -73,6 +73,8 @@ Domestic demand is higher than pre-pandemic levels in every state & territory ex
 
 Business profit, sales and wages data out today from the ABS. Corporate profits down 0.3% in Q1 2021 but mining profits hit another record high due to iron ore exports.
 
+![](https://github.com/andybridger/chartoftheweek/blob/main/2021/week23extra.png?raw=true)
+
 - **Week 22**
 
 The long-term unemployment rate increased in April - despite the headline rate falling - as those who lost their jobs at the start of the pandemic (April 2020) were added. One-third of all unemployed people in Australia are now long-term unemployed.
@@ -95,44 +97,67 @@ The youth unemployment rate fell to its lowest level since the GFC in April.
 
 The Australian Industry Group (Ai Group) Performance of #Manufacturing Index surged in April, indicating a seventh consecutive month of recovery after the severe disruptions of 2020.
 
+
+![](https://github.com/andybridger/chartoftheweek/blob/main/2021/week19.png?raw=true)
+
 - **Week 18**
 
 Retail sales remain well above the pre-COVID-19 trend. Sales growth was strongest in Victoria and Western Australia in March, after short COVID-19 lockdowns in each state dented local retail sales in February 2021. 
+
+![](https://github.com/andybridger/chartoftheweek/blob/main/2021/week18.png?raw=true)
 
 - **Week 17**
 
 Retail and hospitality account for 37% of casual employees.
 
+![](https://github.com/andybridger/chartoftheweek/blob/main/2021/week17.png?raw=true)
+
+
 - **Week 16**
 
 Australian Industry Group (Ai Group) performance indicators released this week show a faster & stronger recovery so far from #covid19 compared to the #GFC. The services sectors were relatively better off during the GFC compared to #construction and #manufacturing, but services industries have been hit harder by COVID-19.
+
+![](https://github.com/andybridger/chartoftheweek/blob/main/2021/week16.png?raw=true)
 
 - **Week 15**
 
 The Australian Easter Bunny has been getting busier delivering chocolate to overseas markets. New Zealand accounts for almost half of #aussie chocolate exports but Chinese, American and ASEAN exports have grown substantially in the last decade.
 
+![](https://github.com/andybridger/chartoftheweek/blob/main/2021/week15.png?raw=true)
+
 - **Week 14**
 
 JobKeeper ends on Sunday. At its peak, 3.6 million workers were supported by JobKeeper.
 
+![](https://github.com/andybridger/chartoftheweek/blob/main/2021/week14.png?raw=true)
+
 - **Week 13**
 
 I suspect these two lines will overlap in the coming months as more people return to the office. Worth also remembering over half of the workforce never worked from home (e.g., healthcare, factories, transport, and construction)
+
+![](https://github.com/andybridger/chartoftheweek/blob/main/2021/week13.png?raw=true)
 
 - **Week 12**
 
 Australian employment is now above pre-crisis levels.
 Updated #dataviz comparing the job losses in Australia from #COVID19 to other #recessions.
 
+![](https://github.com/andybridger/chartoftheweek/blob/main/2021/week12.png?raw=true)
+
 - **Week 11**
 
-The #OECD says the world economy could make up for lost time with faster deployment of #vaccines. 
+The #OECD says the world economy could make up for lost time with faster deployment of #vaccines.
+
+![](https://github.com/andybridger/chartoftheweek/blob/main/2021/week11.png?raw=true)
 
 - **Week 10**
 
 As Rhianna once said "Cheers to the freakin' weekend" - the number of #aussie beer manufacturers has tripled since 2013.
 
+![](https://github.com/andybridger/chartoftheweek/blob/main/2021/week10.png?raw=true)
+
 - **Week 9**
 
 Spirit manufacturing
 
+![](https://github.com/andybridger/chartoftheweek/blob/main/2021/week9.png?raw=true)
