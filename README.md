@@ -17,7 +17,7 @@ Version made with R
 
 Original
 
-![](https://github.com/andybridger/chartoftheweek/blob/main/2021/week32_qt.mov?raw=true)
+![](https://github.com/andybridger/chartoftheweek/blob/main/2021/week32_flourish.gif?raw=true)
 
 - **Week 31** 
 
