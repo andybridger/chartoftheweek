@@ -148,7 +148,7 @@ I suspect these two lines will overlap in the coming months as more people retur
 Australian employment is now above pre-crisis levels.
 Updated #dataviz comparing the job losses in Australia from #COVID19 to other #recessions.
 
-![](https://github.com/andybridger/chartoftheweek/blob/main/2021/week12.png?raw=true)
+![](https://github.com/andybridger/chartoftheweek/blob/main/2021/week12.gif?raw=true)
 
 - **Week 11**
 
