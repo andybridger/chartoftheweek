@@ -12,10 +12,12 @@ The world container index increased to $9,421 per 40ft container in the week to 
 New data from the OECD comparing minimum wages across the globe. Australia has the highest #MinimumWage in the world for the second year in a row. For the original viz see [here](https://public.flourish.studio/visualisation/6938383/) and for my quick explainer on the data and the Australian minimum wage see [here](https://www.aigroup.com.au/news/blogs/2021/australia-had-the-highest-minimum-wage-in-the-world-again-in-2020/)
 
 Version made with R
+
 ![](https://github.com/andybridger/chartoftheweek/blob/main/2021/week32.gif?raw=true)
 
 Original
-![](https://github.com/andybridger/chartoftheweek/blob/main/2021/week32.gif?raw=true)
+
+![](https://github.com/andybridger/chartoftheweek/blob/main/2021/week32_qt.mov?raw=true)
 
 - **Week 31** 
 
