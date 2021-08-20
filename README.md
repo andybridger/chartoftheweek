@@ -15,7 +15,7 @@ Version made with R
 
 ![](https://github.com/andybridger/chartoftheweek/blob/main/2021/week32.gif?raw=true)
 
-Original
+Original - see [flourish](https://public.flourish.studio/visualisation/6938383/) for fluid version
 
 ![](https://github.com/andybridger/chartoftheweek/blob/main/2021/week32_flourish.gif?raw=true)
 
