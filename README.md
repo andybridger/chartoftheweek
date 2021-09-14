@@ -1,6 +1,13 @@
 # chartoftheweek
 Every week I post a chart on my [LinkedIn](https://www.linkedin.com/in/andrewbridger/) on the key Australian economic data from the week. This repository contains the R code used to reproduce my charts. You can also view my Twitter: [@AndyBridger](https://twitter.com/AndyBridger)
 
+- **Week 36** 
+
+The Gold Coast.
+
+![](https://github.com/andybridger/chartoftheweek/blob/main/2021/week36.png?raw=true)
+
+
 - **Week 35** 
 
 At June 30 2021 there were 2,402,254 actively trading businesses in Australia which is an increase of 3.8% (or 87,806 businesses) from last financial year.
