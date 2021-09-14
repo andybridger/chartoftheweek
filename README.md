@@ -1,6 +1,18 @@
 # chartoftheweek
 Every week I post a chart on my [LinkedIn](https://www.linkedin.com/in/andrewbridger/) on the key Australian economic data from the week. This repository contains the R code used to reproduce my charts. You can also view my Twitter: [@AndyBridger](https://twitter.com/AndyBridger)
 
+- **Week 35** 
+
+At June 30 2021 there were 2,402,254 actively trading businesses in Australia which is an increase of 3.8% (or 87,806 businesses) from last financial year.
+
+![](https://github.com/andybridger/chartoftheweek/blob/main/2021/week35.png?raw=true)
+
+- **Week 34** 
+
+#chartoftheweek on the gender pay gap. #equalpayday is coming up on 31 August 2021. Join Australian Industry Group (Ai Group)'s Chief Economist, Julie Toth, and Workplace Law Expert, Nicola Street, for this free webinar on Wednesday 25 August to find out what factors contribute to the gender pay gap and what government and business can do about it at. Register here: https://lnkd.in/gXZh7idg
+
+![](https://github.com/andybridger/chartoftheweek/blob/main/2021/week34.png?raw=true)
+
 - **Week 33** 
 
 The world container index increased to $9,421 per 40ft container in the week to 12 August 2021, up 358% from the same week in 2020 and up from $1,500 in March 2020. 
@@ -148,7 +160,7 @@ I suspect these two lines will overlap in the coming months as more people retur
 Australian employment is now above pre-crisis levels.
 Updated #dataviz comparing the job losses in Australia from #COVID19 to other #recessions.
 
-![](https://github.com/andybridger/chartoftheweek/blob/main/2021/week12.png?raw=true)
+![](https://github.com/andybridger/chartoftheweek/blob/main/2021/week12.gif?raw=true)
 
 - **Week 11**
 
